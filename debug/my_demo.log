@@ -1,0 +1,11 @@
+﻿  Reading Qt configuration (C:/Qt/Qt5.14.0/5.14.0/msvc2017_64/bin/qmake)
+  widget.cpp
+d:\qt\my_demo\widget.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\qt\my_demo\widget.cpp(53): warning C4305: “参数”: 从“double”到“float”截断
+d:\qt\my_demo\widget.cpp(44): warning C4101: “a”: 未引用的局部变量
+d:\qt\my_demo\widget.cpp(24): warning C4101: “iErrorCode”: 未引用的局部变量
+d:\qt\my_demo\widget.cpp(45): warning C4101: “nb_send”: 未引用的局部变量
+  moc_command.cpp
+  moc_receive.cpp
+  moc_widget.cpp
+  my_demo.vcxproj -> D:\qt\my_demo\debug\my_demo.exe

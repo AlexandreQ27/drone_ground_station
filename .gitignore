@@ -1,0 +1,8 @@
+.idea
+.vs
+public
+.DS_Store
+node_modules
+dist
+tmp
+*.lock
